@@ -1,0 +1,12 @@
+{
+    "name": "six519/ssl_stat",
+    "description": "PHP C Language Extension To Get SSL Certificate Information From URL",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
