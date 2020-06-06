@@ -18,7 +18,7 @@ Building & Installing
     phpize
     ./configure --enable-ssl_stat
     make
-    make install
+    sudo make install
 
 Enabling
 ========
