@@ -29,7 +29,7 @@ Testing
 =======
 ::
 
-    php -dextension=/<PATH TO FILE>/ssl_stat.so -a
+    php -dextension=ssl_stat.so -a
 
 PHP Sample Usage
 ================
